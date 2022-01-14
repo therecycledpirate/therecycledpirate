@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @therecycledpirate a.k.a Andy
+- 🙌 Ecosystem Facilitator Kolektivo/Kolektivo Labs
 - 👀 I’m interested in testing products for the market and making things as accesible as possible.
 - 🌱 I’m currently learning EVERYTHING! Really! I'm not a techie.
 - 💞️ I’m looking to collaborate on trying out your product for honest feedback.
