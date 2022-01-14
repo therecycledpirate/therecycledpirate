@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning EVERYTHING! Really! I'm not a techie.
 - 💞️ I’m looking to collaborate on trying out your product for honest feedback.
 - 📫 How to reach me: talktome@therecycledpirate.com
-- 
 
 <!---
 therecycledpirate/therecycledpirate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
